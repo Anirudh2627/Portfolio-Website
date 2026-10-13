@@ -1,0 +1,26 @@
+{
+  "name": "Anirudh",
+  "full_name": "D. V. Anirudh",
+  "headline": "Computer science student building AI systems",
+  "location": "India",
+  "education": {
+    "institution": "VIT Chennai",
+    "degree": "B.Tech in Computer Science",
+    "status": "Student"
+  },
+  "interests": [
+    "AI and machine learning",
+    "LLM engineering",
+    "Retrieval-augmented generation",
+    "AI agents and tool use",
+    "Inference and ML systems",
+    "Backend engineering"
+  ],
+  "links": {
+    "github": "https://github.com/Anirudh2627",
+    "linkedin": "https://www.linkedin.com/in/d-v-anirudh-773a99371/",
+    "x": "https://x.com/anirudhdv27",
+    "email": "anirudhduvvuri123@gmail.com"
+  },
+  "note": "Project status and measurements should be verified against each repository before publication. This profile intentionally omits unverified claims."
+}

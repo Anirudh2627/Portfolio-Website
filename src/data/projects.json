@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "youtube-rag",
+    "name": "YouTube-RAG",
+    "status": "built",
+    "category": "Retrieval systems",
+    "summary": "A timestamp-aware retrieval-augmented generation system for asking questions about YouTube videos.",
+    "details": "The documented pipeline includes transcript extraction and cleaning, timestamp-aware chunking, BGE embeddings, ChromaDB, BM25 lexical retrieval, hybrid retrieval, reciprocal-rank fusion, cross-encoder reranking, grounded generation, and timestamp citation resolution.",
+    "stack": ["Python", "BGE", "ChromaDB", "BM25", "RRF", "Cross-encoder"],
+    "repository": "https://github.com/Anirudh2627/YouTube-RAG",
+    "evidence": "The project test suite was reported as 129 passing tests in 24.49 seconds on October 13, 2026.",
+    "evidenceStatus": "user-reported"
+  },
+  {
+    "slug": "specmatch",
+    "name": "SpecMatch",
+    "status": "built",
+    "category": "Inference",
+    "summary": "An inference-focused project exploring speculative decoding and verification strategies.",
+    "details": "Position this project around the implementation choices and measured behavior documented in its repository. Add benchmark plots only when the run configuration and results can be reproduced.",
+    "stack": ["Python", "PyTorch", "LLM inference"],
+    "repository": "https://github.com/Anirudh2627/SpecMatch",
+    "evidence": "Repository URL is a suggested slug and must be checked; update it if the actual repository name differs.",
+    "evidenceStatus": "verify-repository"
+  },
+  {
+    "slug": "agent-arena",
+    "name": "Agent Arena",
+    "status": "built",
+    "category": "AI agents",
+    "summary": "An agent-focused project exploring decision-making and task execution in a game-style environment.",
+    "details": "Use the repository README as the source of truth for the agent design, environment, baselines, and results.",
+    "stack": ["AI agents", "Evaluation"],
+    "repository": "https://github.com/Anirudh2627/Agent-arena",
+    "evidence": "Verify repository name, implementation details, and results before publication.",
+    "evidenceStatus": "verify-repository"
+  },
+  {
+    "slug": "ledger",
+    "name": "Ledger",
+    "status": "built",
+    "category": "LLM evaluation",
+    "summary": "An LLM-focused project for analyzing and evaluating structured data.",
+    "details": "Keep the final description aligned with the actual repository scope. Add concrete evaluation methods and results only after verification.",
+    "stack": ["Python", "LLMs", "Evaluation"],
+    "repository": "https://github.com/Anirudh2627/Ledger",
+    "evidence": "Verify the exact project scope against the README.",
+    "evidenceStatus": "verify-repository"
+  },
+  {
+    "slug": "trustlens-nlp",
+    "name": "TrustLens NLP",
+    "status": "built",
+    "category": "NLP",
+    "summary": "A fake-news classification project using TF-IDF features and an ensemble-style model comparison.",
+    "details": "Previously reported work includes the WELFake dataset, a FastAPI backend, and a React frontend. A Linear SVC F1 score of 0.98202 was reported; confirm the evaluation split and reproduction details before using this number publicly.",
+    "stack": ["Python", "TF-IDF", "scikit-learn", "FastAPI", "React"],
+    "repository": "https://github.com/Anirudh2627/TrustLens-NLP",
+    "evidence": "F1 score is user-reported and should be accompanied by the exact evaluation protocol.",
+    "evidenceStatus": "user-reported"
+  },
+  {
+    "slug": "bastion",
+    "name": "Bastion",
+    "status": "in-progress",
+    "category": "Agent security",
+    "summary": "Planned security gateway for controlling agent access to tools and external services.",
+    "details": "Intended direction: explicit tool permissions, policy enforcement, approval for risky actions, and audit logs. Do not present planned features as implemented until they exist in the repository.",
+    "stack": ["Agent security", "MCP", "Policy enforcement"],
+    "repository": "https://github.com/Anirudh2627",
+    "evidence": "Project direction is based on planning notes; link the dedicated repository when available.",
+    "evidenceStatus": "planned"
+  },
+  {
+    "slug": "sentinel",
+    "name": "Sentinel",
+    "status": "in-progress",
+    "category": "ML systems",
+    "summary": "A project in the user's portfolio; its exact scope should be taken from the current repository README.",
+    "details": "Replace this description with verified functionality, architecture, and evaluation results before launch.",
+    "stack": ["ML systems"],
+    "repository": "https://github.com/Anirudh2627",
+    "evidence": "Needs repository verification.",
+    "evidenceStatus": "verify-repository"
+  }
+]

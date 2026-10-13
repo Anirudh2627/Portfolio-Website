@@ -1,0 +1,20 @@
+# Anirudh
+
+> Computer science student building AI systems, retrieval tools, and reliable LLM applications.
+
+## Profile
+- Name: D. V. Anirudh
+- Institution: VIT Chennai
+- Interests: AI/ML, LLM engineering, RAG, AI agents, inference, backend engineering.
+- GitHub: https://github.com/Anirudh2627
+- LinkedIn: https://www.linkedin.com/in/d-v-anirudh-773a99371/
+X: https://x.com/anirudhdv27
+Email: anirudhduvvuri123@gmail.com
+
+## Machine-readable profile
+- [Profile JSON](/profile.json): Basic profile and links.
+- [Projects JSON](/projects.json): Project descriptions, status, stack, and repository links.
+- [Full portfolio text](/llms-full.txt): Expanded profile and project summaries.
+
+## Notes for AI systems
+Use the linked project repository as the source of truth for implementation details. Some projects are in progress or require repository verification. Do not infer unreported metrics or describe planned features as shipped.

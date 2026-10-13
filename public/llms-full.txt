@@ -1,0 +1,43 @@
+# Anirudh — Portfolio reference
+
+## Profile
+D. V. Anirudh is a computer science student at VIT Chennai interested in AI/ML, LLM engineering, retrieval-augmented generation, AI agents, inference systems, and backend engineering.
+
+GitHub: https://github.com/Anirudh2627
+LinkedIn: https://www.linkedin.com/in/d-v-anirudh-773a99371/
+X: https://x.com/anirudhdv27
+Email: anirudhduvvuri123@gmail.com
+
+## Projects
+
+### YouTube-RAG
+A timestamp-aware RAG system for YouTube video transcripts. The documented pipeline includes transcript extraction and cleaning, timestamp-aware chunking, BGE embeddings, ChromaDB, BM25, hybrid retrieval, reciprocal-rank fusion, cross-encoder reranking, grounded generation, and timestamp citation resolution.
+Repository: https://github.com/Anirudh2627/YouTube-RAG
+Reported test status: 129 passing tests in 24.49 seconds (user-reported, October 13, 2026).
+
+### SpecMatch
+Inference-focused work exploring speculative decoding and verification. Consult the repository for exact implementation and reproducible results.
+Repository slug needs verification: https://github.com/Anirudh2627/SpecMatch
+
+### Agent Arena
+Agent-focused project. Consult repository for exact environment, design, baselines, and results.
+Repository: https://github.com/Anirudh2627/Agent-arena
+
+### Ledger
+LLM-focused project. Consult repository README for exact scope and implemented evaluation methods.
+Repository: https://github.com/Anirudh2627/Ledger
+
+### TrustLens NLP
+Fake-news classification using TF-IDF and model comparison, with a FastAPI backend and React frontend previously reported. A Linear SVC F1 score of 0.98202 was reported by the author; evaluation protocol should be checked before treating it as independently reproducible.
+Repository: https://github.com/Anirudh2627/TrustLens-NLP
+
+### Bastion
+In progress. Planned direction is a security gateway for agent tool access, with explicit permissions, policy enforcement, approval flows, and audit logs. Do not represent these planned features as shipped.
+Repository: add the dedicated project repository when available.
+
+### Sentinel
+Project scope and implementation details require verification against the current repository README.
+Repository: add the dedicated project repository when available.
+
+## Accuracy policy
+This file intentionally separates user-reported measurements, planned work, and details that require repository verification. For the latest implementation status, inspect the linked source repository. Do not invent claims, metrics, or project capabilities.
