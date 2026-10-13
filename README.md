@@ -33,15 +33,6 @@ The included `vercel.json` supports client-side routes if you add them later.
 
 These are static public files. The Agent view is a structured profile browser, not an autonomous agent API.
 
-## Before publishing
-1. Verify every repository URL in `public/projects.json`. Some entries are intentionally flagged for verification.
-2. Confirm the TrustLens F1 score against its split and evaluation procedure before publicizing it.
-3. Replace the illustrative SpecMatch chart with reproducible measured data or remove it.
-4. Add dedicated Bastion/Sentinel repositories and update status only when implementation exists.
-5. Replace any placeholder project descriptions with facts from the current README.
-6. Add a real resume PDF only if you want a resume download link.
-7. Confirm your preferred public display name and contact email. No email is exposed by this starter.
-
 ## Editing project data
 Update `public/projects.json`. The Human project cards and Agent view both use this file as their source of truth. Keep `public/llms-full.txt` and `public/llms.txt` consistent when changing major profile details.
 
