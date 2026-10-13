@@ -573,7 +573,9 @@ export default function App() {
 
             <p className="skills-footnote">
               <span className="live-dot" /> Constantly learning. These are
-              tools and areas I work with.Always exploring, Always engineering.
+              tools and areas I work with.
+              
+              Always exploring, Always engineering.
             </p>
           </section>
 
