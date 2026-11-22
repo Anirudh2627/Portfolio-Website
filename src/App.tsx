@@ -13,6 +13,7 @@ import {
   X,
   FileJson,
 } from "lucide-react";
+import { Analytics } from "@vercel/analytics/react";
 import projectsData from "./data/projects.json";
 
 type Project = {
@@ -845,6 +846,7 @@ export default function App() {
           </footer>
         </main>
       )}
+      <Analytics />
     </div>
   );
 }
